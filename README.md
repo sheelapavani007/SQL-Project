@@ -3,7 +3,7 @@
 ## 🚀 Introduction
 Dive into the data job market! This project focuses on **Data Analyst** roles, exploring the highest-paying positions, the most in-demand skills, and the intersection where high demand meets top-tier salaries.
 
-🔗 **SQL queries? Check them out here:** [SQL Project](/SQLProject/)
+🔗 **SQL queries? Check them out here:** [SQL Project](/project_sql/)
 
 ---
 
